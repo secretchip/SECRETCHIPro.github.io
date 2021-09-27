@@ -1,2 +1,2 @@
-# SECRETCHIPro.github.io
+# secretchipro.github.io
 secretchip.ro website on github
